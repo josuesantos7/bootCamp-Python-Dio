@@ -1,0 +1,16 @@
+nome = "Guilherme"
+idade = 28
+
+nome = "Giovanna"
+idade = 25
+
+print(nome, idade)
+
+# Conversão para nomeação de variáveis:
+# snake_case: nome_da_variavel
+limite_saque_diario = 1000.0
+
+# Constantes são escritas em maiúsculas:
+LISTA_DE_ESTADOS = [ "RS", "SC", "PR","AP"]
+
+print(LISTA_DE_ESTADOS)
